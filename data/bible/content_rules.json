@@ -1,0 +1,32 @@
+{
+  "script_rules": {
+    "min_duration_seconds": 10,
+    "max_duration_seconds": 15,
+    "max_characters_per_episode": 3,
+    "max_beats": 5,
+    "max_dialogue_chars_per_line": 40,
+    "must_have_punchline": true,
+    "must_have_workplace_theme": true
+  },
+  "forbidden": [
+    "现实公司攻击",
+    "真实人物影射",
+    "血腥暴力",
+    "恐怖惊吓",
+    "色情内容",
+    "强政治表达",
+    "复杂长篇解释"
+  ],
+  "preferred_themes": [
+    "新人入职",
+    "开会",
+    "绩效",
+    "加班",
+    "背锅",
+    "汇报",
+    "领导画饼",
+    "团建",
+    "办公室座位",
+    "被主人偏爱"
+  ]
+}

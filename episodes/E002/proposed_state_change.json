@@ -1,0 +1,34 @@
+{
+  "updated_character_state": {
+    "updated_at": "2026-06-09T00:00:00Z",
+    "characters": [
+      {
+        "id": "manager_cat",
+        "current_mindset": "既享受新员工对自己权威的认可，又对新员工过度追求被捏可能带来的失控局面感到焦虑。",
+        "dynamic_relationships": [
+          {
+            "target_id": "new_bear",
+            "relationship_state": "表面是严厉的主管与努力的下属，实则内心开始警惕下属的表现。"
+          }
+        ],
+        "recent_memories": [
+          "向团子强调被捏越多绩效越高，表扬团子并提出要成为被捏最多的目标，看到团子不断被捏而感到焦虑。"
+        ]
+      },
+      {
+        "id": "new_bear",
+        "current_mindset": "完全接受了公司'被捏=高绩效'的文化，为了达到主管提出的更高目标，不惜过度让主人捏自己。",
+        "dynamic_relationships": [
+          {
+            "target_id": "manager_cat",
+            "relationship_state": "对奶盖无比信任，将其视为职场榜样并努力迎合。"
+          }
+        ],
+        "recent_memories": [
+          "被奶盖告知要成为被捏最多的，不断让主人捏自己以追求高绩效。"
+        ]
+      }
+    ]
+  },
+  "continuity_warnings": []
+}

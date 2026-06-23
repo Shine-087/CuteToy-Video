@@ -1,0 +1,15 @@
+{
+  "episode_id": "E003",
+  "arc_stage": "建立'承受物理形变(被捏)=高绩效'的世界观，团子因太软而莫名成为优秀员工。",
+  "episode_function": "进一步深化'被捏=高绩效'的职场文化，展现团子为追求高绩效而过度努力的状态，同时揭示奶盖对这一情况的复杂心态。",
+  "required_plot_point": "奶盖设定新的'被捏'KPI目标，团子为达成目标疯狂求捏，奶盖对此产生担忧。",
+  "characters": [
+    "manager_cat",
+    "new_bear"
+  ],
+  "workplace_theme": "职场KPI设定与过度追求",
+  "continuity_notes": [
+    "延续前两集对'被捏=高绩效'文化的构建，奶盖和团子的行为和心态要符合之前的发展。"
+  ],
+  "ending_state_change": "奶盖对团子的过度行为感到不安，团子则陷入对新KPI的盲目追求中。"
+}

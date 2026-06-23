@@ -1,0 +1,109 @@
+{
+  "scripts": [
+    {
+      "script_id": "idea_001",
+      "title": "为了KPI拼了",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场KPI设定与过度追求",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "奶盖设定新KPI，团子为达标疯狂求捏。",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖叉腰站在桌上，严肃地看着团子。",
+          "dialogue": "奶盖：新KPI，你要成被捏最多的！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "团子眼睛发亮，用力点头。",
+          "dialogue": "团子：好的主管！我会努力的！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "团子不断跳起来，主动让主人捏。",
+          "dialogue": "团子：主人，捏我捏我！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "奶盖看着疯狂的团子，露出担忧的表情。",
+          "dialogue": "奶盖：这……是不是有点过了？"
+        }
+      ],
+      "punchline": "奶盖担忧团子，而团子却陷入对新KPI的盲目追求。",
+      "generation_notes": "后续可围绕奶盖如何处理团子的情况展开。"
+    },
+    {
+      "script_id": "idea_002",
+      "title": "KPI的压力",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场KPI设定与过度追求",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "奶盖提出新KPI，团子拼命求捏。",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖双手抱胸，一脸认真地对团子说。",
+          "dialogue": "奶盖：新目标，成为被捏王！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "团子握紧小拳头，坚定地回应。",
+          "dialogue": "团子：没问题，我一定做到！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "团子在桌上蹦蹦跳跳，吸引主人注意。",
+          "dialogue": "团子：主人快来捏我呀！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "奶盖看着疯狂的团子，眉头微皱。",
+          "dialogue": "奶盖：这样下去可不行……"
+        }
+      ],
+      "punchline": "奶盖担心团子，团子却一心扑在KPI上。",
+      "generation_notes": "后续可展现奶盖如何引导团子。"
+    },
+    {
+      "script_id": "idea_003",
+      "title": "追求KPI的疯狂",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场KPI设定与过度追求",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "奶盖定KPI，团子疯狂求捏。",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖站在高处，向团子宣布新KPI。",
+          "dialogue": "奶盖：新任务，被捏次数创新高！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "团子兴奋地跳起来，大声回应。",
+          "dialogue": "团子：我会加油的！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "团子想尽办法让主人捏自己。",
+          "dialogue": "团子：主人，看这里！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "奶盖看着疯狂的团子，心中焦虑。",
+          "dialogue": "奶盖：不能再这样了……"
+        }
+      ],
+      "punchline": "奶盖焦虑，团子却沉迷追求KPI。",
+      "generation_notes": "后续可写奶盖如何调整策略。"
+    }
+  ]
+}

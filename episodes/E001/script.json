@@ -1,0 +1,35 @@
+{
+  "script_id": "idea_001",
+  "title": "被捏才是高绩效？",
+  "duration_target_seconds": 12,
+  "workplace_theme": "荒诞的职场规则",
+  "characters": [
+    "manager_cat",
+    "new_bear"
+  ],
+  "logline": "新入职的小熊团子被猫咪主管奶盖告知被捏才是高绩效",
+  "beats": [
+    {
+      "time_range": "0-3s",
+      "action": "奶盖站在桌上，面对刚被拆封的团子",
+      "dialogue": "欢迎你加入，我是主管奶盖"
+    },
+    {
+      "time_range": "3-6s",
+      "action": "奶盖挺了挺胸脯",
+      "dialogue": "我们公司文化是被捏=高绩效"
+    },
+    {
+      "time_range": "6-9s",
+      "action": "主人的手伸过来捏了一下团子",
+      "dialogue": "团子：这是正常的吗？"
+    },
+    {
+      "time_range": "9-12s",
+      "action": "奶盖围着团子转了一圈",
+      "dialogue": "不错，回弹性好，是优秀员工"
+    }
+  ],
+  "punchline": "奶盖一本正经胡说八道，团子却信以为真。",
+  "generation_notes": "后续可围绕团子在这种荒诞规则下的工作展开"
+}

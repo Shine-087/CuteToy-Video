@@ -1,0 +1,28 @@
+{
+  "script_id": "idea_003",
+  "overall_score": 70,
+  "decision": "revise",
+  "checks": {
+    "duration_ok": true,
+    "character_consistency": true,
+    "one_joke_only": false,
+    "has_punchline": true,
+    "dialogue_short_enough": true,
+    "visual_generation_risk": "low",
+    "brand_safety": true,
+    "world_rules_ok": true
+  },
+  "scores": {
+    "comedy": 70,
+    "character_fit": 80,
+    "visual_feasibility": 80,
+    "series_consistency": 70
+  },
+  "problems": [
+    "每集只讲一个职场梗的规则未严格遵守，此脚本中权力压制与反抗争取被捏机会可看作两个职场梗"
+  ],
+  "revision_notes": [
+    "将权力压制和争取被捏机会两个梗整合为一个更紧密的职场梗，比如权力压制下的反抗策略等"
+  ],
+  "recommended_next_action": "revise_script"
+}

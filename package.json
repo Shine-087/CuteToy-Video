@@ -1,0 +1,22 @@
+{
+  "name": "squishy-workplace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AI squishy workplace short-video agent pipeline.",
+  "packageManager": "pnpm@10.12.1",
+  "scripts": {
+    "generate": "node --experimental-strip-types src/cli/generate.ts",
+    "batch": "node --experimental-strip-types src/cli/batch.ts",
+    "visual": "node --experimental-strip-types src/cli/visual.ts",
+    "batch-visual": "node --experimental-strip-types src/cli/batchVisual.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.42.0"
+  }
+}

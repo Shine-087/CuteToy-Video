@@ -1,0 +1,32 @@
+{
+  "season_id": "season_01",
+  "title": "捏捏有限公司：KPI保卫战",
+  "total_episodes_planned": 10,
+  "main_arc": "新入职的极软硅胶实习生团子，凭借物理上惊人的回弹力，打破了老油条主管奶盖定下的虚假职场规矩，两人最终并肩抗压，迎接盲盒新高管的降临。",
+  "arcs": [
+    {
+      "arc_id": "arc_1",
+      "episodes_range": [1, 3],
+      "arc_theme": "荒诞的入职培训",
+      "arc_goal": "建立'承受物理形变(被捏)=高绩效'的世界观，团子因太软而莫名成为优秀员工。"
+    },
+    {
+      "arc_id": "arc_2",
+      "episodes_range": [4, 6],
+      "arc_theme": "物理反弹与职场PUA",
+      "arc_goal": "奶盖用物理方式施压团子，但团子的完美物理回弹让奶盖的职场PUA彻底失效。"
+    },
+    {
+      "arc_id": "arc_3",
+      "episodes_range": [7, 9],
+      "arc_theme": "并肩抗压的革命友谊",
+      "arc_goal": "主人疯狂捏捏解压，奶盖扛不住，团子主动分担压力，两人达成微妙的和解。"
+    },
+    {
+      "arc_id": "arc_4",
+      "episodes_range": [10, 10],
+      "arc_theme": "盲盒降临，空降危机",
+      "arc_goal": "大结局悬念，桌面上降临一个写着'慢回弹'的神秘盲盒，预示新高管空降。"
+    }
+  ]
+}

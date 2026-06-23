@@ -1,0 +1,132 @@
+{
+  "updated_at": "2026-06-17T14:30:00+08:00",
+  "series_metadata": {
+    "total_seasons": 1,
+    "current_season": 1
+  },
+  "seasons": [
+    {
+      "season_id": "season_01",
+      "title": "KPI保卫战",
+      "summary": "第一季核心讲述了新入职的极软硅胶实习生团子，打破主管奶盖定下的虚假被捏规则，两人最终并肩抗压的故事。",
+      "episodes": [
+        {
+          "episode_id": "E001",
+          "title": "被捏才是高绩效？",
+          "workplace_theme": "荒诞的职场规则",
+          "summary": "奶盖向团子宣扬'被捏=高绩效'的规则，团子信以为真并被捏。",
+          "golden_quotes": [
+            {
+              "character_id": "manager_cat",
+              "quote": "我们公司文化是被捏=高绩效"
+            },
+            {
+              "character_id": "new_bear",
+              "quote": "这是正常的吗？"
+            }
+          ]
+        },
+        {
+          "episode_id": "E002",
+          "title": "高绩效的代价",
+          "workplace_theme": "职场中的虚假繁荣与过度竞争",
+          "summary": "新熊为高绩效拼命被捏，经理猫开始焦虑。",
+          "golden_quotes": [
+            {
+              "character_id": "manager_cat",
+              "quote": "你要成为被捏最多的"
+            },
+            {
+              "character_id": "new_bear",
+              "quote": "我会做到的！"
+            }
+          ]
+        },
+        {
+          "episode_id": "E003",
+          "title": "追求KPI的疯狂",
+          "workplace_theme": "职场KPI设定与过度追求",
+          "summary": "奶盖定下新KPI，团子疯狂求捏。",
+          "golden_quotes": [
+            {
+              "character_id": "manager_cat",
+              "quote": "新任务，被捏次数创新高！"
+            },
+            {
+              "character_id": "new_bear",
+              "quote": "主人，看这里！"
+            }
+          ]
+        },
+        {
+          "episode_id": "E005",
+          "title": "新熊的机智",
+          "workplace_theme": "职场中的权力斗争与反抗策略",
+          "summary": "奶盖试图用更多方式阻止团子被捏，团子巧妙反抗并成功继续被捏。",
+          "golden_quotes": [
+            {
+              "character_id": "manager_cat",
+              "quote": "不许去被捏！"
+            },
+            {
+              "character_id": "new_bear",
+              "quote": "嘿嘿，骗到你啦！"
+            }
+          ]
+        },
+        {
+          "episode_id": "E006",
+          "title": "躲得了初一躲不了捏",
+          "workplace_theme": "职场恶意打压最终自食其果",
+          "summary": "奶盖为彻底阻拦团子抢被捏绩效，将团子压在收纳盒角落，主人回家找捏捏解压时最先抓到露在外面的奶盖，连续捏了十分钟，团子趁奶盖被捏得回弹迟缓时顺利爬出成功获得被捏机会，奶盖的PUA压制策略彻底失效，两人敌对关系出现破冰信号。",
+          "golden_quotes": [
+            {
+              "character_id": "manager_cat",
+              "quote": "看你这次还怎么抢绩效"
+            },
+            {
+              "character_id": "new_bear",
+              "quote": "绩效我来啦！"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "manager_cat",
+      "name": "奶盖",
+      "workplace_role": "自封主管",
+      "image_evolution": "第一季起步时是一个只手遮天、爱开会画饼的强势主管；经历团子的回弹挑战和KPI风波后，目前显得有些焦虑，逐渐开始和团子并肩面对压力，人设正在向'外强中干但讲义气的倒霉主管'转变；经历本次自作自受被狂捏十分钟的事件后，亲自体验到高频被捏的酸爽，彻底放弃PUA打压策略，人设进一步向嘴硬心软的搞笑倒霉主管靠拢。",
+      "current_mindset": "亲自体验到高绩效对应的高频被捏痛苦后，对团子之前的行为产生共情，彻底放弃阻拦团子求捏的念头，开始重新审视自己此前定下的荒诞被捏绩效规则，权威心态大幅软化。",
+      "dynamic_relationships": [
+        {
+          "target_id": "new_bear",
+          "relationship_state": "从针锋相对的压迫者与反抗者，转向敌对关系破冰、逐渐互相理解的同事关系，不再刻意针对团子。"
+        }
+      ],
+      "recent_memories": [
+        "向团子强调被捏越多绩效越高，表扬团子并提出要成为被捏最多的目标，看到团子不断被捏而感到焦虑，用身体压制团子不让其被捏，阻拦团子被捏失败",
+        "把团子压在收纳盒角落阻拦其抢绩效，祈祷不被主人摸到反而被第一个抓出狂捏十分钟，亲身体验高频被捏的酸爽，看到团子顺利爬出抢绩效不再阻拦"
+      ]
+    },
+    {
+      "id": "new_bear",
+      "name": "团子",
+      "workplace_role": "新入职实习生",
+      "image_evolution": "刚被拆出包装的职场小白，从极度天真、相信所有奇葩设定的受气包，渐渐在承受物理压力中觉醒了惊人的回弹力，开始敢于对规则发起挑战；在多次冲破主管打压后，越来越熟练掌握争取绩效的技巧，成长为敢冲敢抢的成熟实习生。",
+      "current_mindset": "成功冲破主管的所有打压后，对争取高绩效更加有信心，不再畏惧主管的权威，依旧保持对被捏绩效的高度热情。",
+      "dynamic_relationships": [
+        {
+          "target_id": "manager_cat",
+          "relationship_state": "从对主管无比信任、到反抗压迫，现在对主管的恐惧完全消失，两人关系破冰，转为平等争取绩效的同事关系。"
+        }
+      ],
+      "recent_memories": [
+        "被奶盖告知要成为被捏最多的，不断让主人捏自己以追求高绩效，被奶盖压制后努力反抗并试图继续被捏，用机智骗过奶盖成功被捏",
+        "被奶盖压在收纳盒角落动弹不得，亲眼看到奶盖被主人抓走狂捏，趁机爬出收纳盒冲到主人手边争取被捏机会，顺利达成高绩效目标"
+      ]
+    }
+  ]
+}

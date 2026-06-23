@@ -1,0 +1,34 @@
+{
+  "updated_character_state": {
+    "updated_at": "2026-06-09T00:00:00.000Z",
+    "characters": [
+      {
+        "id": "manager_cat",
+        "current_mindset": "极力在新员工面前维护自己的主管威严，宣扬'被捏=KPI'的虚假繁荣，但内心很怕遇到人类的大手。",
+        "dynamic_relationships": [
+          {
+            "target_id": "new_bear",
+            "relationship_state": "把团子当成树立威信的工具，表面严厉，试图用各种奇葩理论镇住团子。"
+          }
+        ],
+        "recent_memories": [
+          "向新员工团子介绍公司文化是“被捏=高绩效”，并让团子接受主人的第一次捏压测试。"
+        ]
+      },
+      {
+        "id": "new_bear",
+        "current_mindset": "刚被拆出包装的职场小白，非常渴望表现好，对所有的职场潜规则都信以为真。",
+        "dynamic_relationships": [
+          {
+            "target_id": "manager_cat",
+            "relationship_state": "非常尊敬奶盖，认为奶盖深不可测，遇到被捏的状况都会认真请教。"
+          }
+        ],
+        "recent_memories": [
+          "被奶盖告知公司文化是“被捏=高绩效”，接受主人的第一次捏压测试并被认定为优秀员工。"
+        ]
+      }
+    ]
+  },
+  "continuity_warnings": []
+}

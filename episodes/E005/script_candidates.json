@@ -1,0 +1,109 @@
+{
+  "scripts": [
+    {
+      "script_id": "idea_001",
+      "title": "强势主管的阻拦",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的权力斗争与反抗策略",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "主管阻止新人被捏，新人机智反抗",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "经理猫张开双臂，拦住试图靠近主人的新熊",
+          "dialogue": "经理猫：你不能再被捏了！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "新熊左躲右闪，想要绕过经理猫",
+          "dialogue": "新熊：为什么呀？我要高绩效！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "经理猫用身体挡住新熊，新熊努力挣扎",
+          "dialogue": "经理猫：我说了不行！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "新熊突然发力，从经理猫身下钻过去，跑到主人手边被捏",
+          "dialogue": "新熊：嘿嘿，我还是被捏啦！"
+        }
+      ],
+      "punchline": "新熊成功突破阻拦，继续追求高绩效，让经理猫震惊又无奈。",
+      "generation_notes": "后续视频可以围绕经理猫和新熊之间的新矛盾展开，或者进一步深化新熊追求高绩效的故事线。"
+    },
+    {
+      "script_id": "idea_002",
+      "title": "反抗的新熊",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的权力斗争与反抗策略",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "新熊反抗主管阻拦，成功被捏",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "经理猫躺在新熊身前，不让它靠近主人",
+          "dialogue": "经理猫：别想过去！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "新熊尝试从旁边绕过去，经理猫也跟着挪动身体",
+          "dialogue": "新熊：我就要被捏！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "新熊突然跳起来，越过经理猫",
+          "dialogue": "经理猫：啊！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "新熊落在主人手边，被主人捏了一下",
+          "dialogue": "新熊：哈哈，我做到了！"
+        }
+      ],
+      "punchline": "新熊成功反抗经理猫的阻拦，继续为高绩效努力，经理猫一脸懵。",
+      "generation_notes": "可以继续发展经理猫和新熊的关系，或者引入其他角色来丰富剧情。"
+    },
+    {
+      "script_id": "idea_003",
+      "title": "新熊的机智",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的权力斗争与反抗策略",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "新熊机智突破主管阻拦，实现高绩效",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "经理猫站在新熊面前，拦住它的去路",
+          "dialogue": "经理猫：不许去被捏！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "新熊假装往左边走，然后突然转向右边",
+          "dialogue": "新熊：嘿嘿，骗到你啦！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "经理猫急忙转身去追新熊，新熊加快速度",
+          "dialogue": "经理猫：你给我停下！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "新熊跑到主人手边，被主人捏了，经理猫无奈地看着",
+          "dialogue": "新熊：我还是被捏啦！"
+        }
+      ],
+      "punchline": "新熊用机智成功突破经理猫的阻拦，让经理猫无可奈何。",
+      "generation_notes": "后续可以考虑让经理猫想出新的办法来阻止新熊，或者让新熊的高绩效行为引发其他后果。"
+    }
+  ]
+}

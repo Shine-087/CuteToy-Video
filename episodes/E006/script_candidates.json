@@ -1,0 +1,109 @@
+{
+  "scripts": [
+    {
+      "script_id": "idea_001",
+      "title": "躲得了初一躲不了捏",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场恶意打压最终自食其果",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "主管把新人压身下躲捏，反而自己先被抓捏爆",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖把团子按在收纳盒角落",
+          "dialogue": "看你这次还怎么抢绩效"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "主人的手伸进收纳盒摸索",
+          "dialogue": "（奶盖小声）千万别摸到我"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "手抓住奶盖拎出来狂捏",
+          "dialogue": "（奶盖惨叫）啊怎么是我！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "团子爬出来蹦到主人手边",
+          "dialogue": "绩效我来啦！"
+        }
+      ],
+      "punchline": "奶盖把团子堵在死角，反而自己露在外面被捏了十分钟",
+      "generation_notes": "奶盖被捏时要做出硅胶瘫软变形的质感，团子蹦跳要Q弹"
+    },
+    {
+      "script_id": "idea_002",
+      "title": "抢来的KPI烫手",
+      "duration_target_seconds": 13,
+      "workplace_theme": "职场恶意打压最终自食其果",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "主管藏新人想独占绩效机会，反而先被抓狂捏",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖把团子塞到自己肚子底下",
+          "dialogue": "高绩效轮不到你"
+        },
+        {
+          "time_range": "3-7s",
+          "action": "主人手伸过来，奶盖挺胸假笑往前凑",
+          "dialogue": "捏我捏我（假客气）"
+        },
+        {
+          "time_range": "7-10s",
+          "action": "手一把薅走奶盖狂捏",
+          "dialogue": "（奶盖慌了）我只是客气啊喂！"
+        },
+        {
+          "time_range": "10-13s",
+          "action": "团子探出头跳到手边",
+          "dialogue": "谢谢主管让位置~"
+        }
+      ],
+      "punchline": "奶盖假客套要被捏，没想到主人真逮着他捏了十分钟",
+      "generation_notes": "奶盖假笑时眼神要虚，被捏时表情从得意秒变扭曲"
+    },
+    {
+      "script_id": "idea_003",
+      "title": "躲猫猫的代价",
+      "duration_target_seconds": 14,
+      "workplace_theme": "职场恶意打压最终自食其果",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "主管压新人躲捏，自己被捏到回弹迟缓送新人拿绩效",
+      "beats": [
+        {
+          "time_range": "0-4s",
+          "action": "奶盖压在团子身上缩在收纳盒最里面",
+          "dialogue": "我看谁能找到你"
+        },
+        {
+          "time_range": "4-8s",
+          "action": "主人手指扒拉收纳盒，戳到奶盖的头",
+          "dialogue": "（奶盖哆嗦）别碰别碰！"
+        },
+        {
+          "time_range": "8-12s",
+          "action": "奶盖被拎出去狂捏，脸都捏变形",
+          "dialogue": "（奶盖哭腔）我扛不住了啊！"
+        },
+        {
+          "time_range": "12-14s",
+          "action": "团子慢悠悠爬出来晃悠",
+          "dialogue": "那我先去拿绩效啦"
+        }
+      ],
+      "punchline": "奶盖为挡团子把自己露在最外面，被捏到十秒动不了",
+      "generation_notes": "奶盖被捏后要做硅胶慢慢回弹的慢动作，团子爬的时候一晃一晃"
+    }
+  ]
+}

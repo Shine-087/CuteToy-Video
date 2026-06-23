@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {
+      "id": "manager_cat",
+      "name": "奶盖",
+      "species": "猫咪捏捏",
+      "workplace_role": "自封主管",
+      "personality": "爱开会、爱下定义、表面强势但很怕被主人捏。",
+      "catchphrases": ["我们要有主人思维。", "这个会很重要。"],
+      "visual_profile": {
+        "base_prompt": "round white cat squishy toy, soft silicone texture, pale yellow cream-like patch on head, tiny confident eyes, chubby body, kawaii collectible toy",
+        "negative_prompt": "real animal, fur, scary, realistic cat, human body, extra limbs, distorted face",
+        "key_features": [
+          "圆滚滚白色猫咪",
+          "头顶淡黄色奶油花纹",
+          "眼神自信但有点心虚",
+          "软硅胶捏捏质感"
+        ]
+      },
+      "relationships": [
+        {
+          "target_id": "new_bear",
+          "relationship": "把新人当成下属，但经常被新人问倒。"
+        }
+      ]
+    },
+    {
+      "id": "new_bear",
+      "name": "团子",
+      "species": "小熊捏捏",
+      "workplace_role": "新入职实习生",
+      "personality": "软萌、认真、问题很多，常常用天真问题戳穿荒诞规则。",
+      "catchphrases": ["所以这是正常的吗？", "我刚来，我可以问吗？"],
+      "visual_profile": {
+        "base_prompt": "small round beige bear squishy toy, soft silicone texture, simple dot eyes, tiny ears, innocent expression, kawaii collectible toy",
+        "negative_prompt": "real bear, fur, scary, human body, extra limbs, distorted face",
+        "key_features": ["米色小熊", "圆耳朵", "豆豆眼", "新人感和无辜感"]
+      },
+      "relationships": [
+        {
+          "target_id": "manager_cat",
+          "relationship": "把奶盖当主管，但经常无意中拆穿它。"
+        }
+      ]
+    }
+  ]
+}

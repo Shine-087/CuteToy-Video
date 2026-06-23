@@ -1,0 +1,109 @@
+{
+  "scripts": [
+    {
+      "script_id": "idea_001",
+      "title": "强势主管的压制",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的权力压制与反抗",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "主管奶盖压制新熊团子被捏，团子努力反抗。",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖用身体压住团子，不让主人捏。",
+          "dialogue": "奶盖：不行，你不能再被捏了！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "团子挣扎着露出部分身体，向主人伸手。",
+          "dialogue": "团子：主人，我可以的！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "奶盖又把团子压下去。",
+          "dialogue": "奶盖：我说了算！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "团子努力反抗，身体弹起一点。",
+          "dialogue": "团子：我要高绩效！"
+        }
+      ],
+      "punchline": "奶盖成功压制团子，但团子眼神更坚定。",
+      "generation_notes": "后续可围绕团子的反抗展开，如寻找其他办法被捏。"
+    },
+    {
+      "script_id": "idea_002",
+      "title": "反抗的新熊",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的权力压制与反抗",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "新熊团子在主管奶盖的压制下努力反抗，争取被捏。",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖趴在团子身上，阻止主人捏。",
+          "dialogue": "奶盖：别想再被捏！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "团子扭动身体，想挣脱奶盖。",
+          "dialogue": "团子：我要绩效！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "奶盖用爪子按住团子。",
+          "dialogue": "奶盖：不行就是不行！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "团子用力弹起，顶开奶盖一点。",
+          "dialogue": "团子：我不会放弃的！"
+        }
+      ],
+      "punchline": "奶盖暂时压制住团子，但团子不打算屈服。",
+      "generation_notes": "可发展团子和奶盖的冲突，也可让团子寻求其他捏捏的帮助。"
+    },
+    {
+      "script_id": "idea_003",
+      "title": "压制与反抗的较量",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的权力压制与反抗",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "主管奶盖压制新熊团子，团子顽强反抗争取被捏机会。",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "奶盖整个身子压在团子上，不让主人捏。",
+          "dialogue": "奶盖：你不能再被捏了！"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "团子努力从奶盖身下挤出一点。",
+          "dialogue": "团子：主人，捏我！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "奶盖又把团子压回去，用爪子按住。",
+          "dialogue": "奶盖：别挣扎了！"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "团子用力挣扎，身体不断弹动。",
+          "dialogue": "团子：我一定要被捏！"
+        }
+      ],
+      "punchline": "奶盖虽然压制住团子，但团子的反抗很激烈。",
+      "generation_notes": "后续可以让奶盖想其他办法阻止团子，团子也可以有新的反抗策略。"
+    }
+  ]
+}

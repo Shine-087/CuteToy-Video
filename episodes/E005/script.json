@@ -1,0 +1,35 @@
+{
+  "script_id": "idea_003",
+  "title": "新熊的机智",
+  "duration_target_seconds": 12,
+  "workplace_theme": "职场中的权力斗争与反抗策略",
+  "characters": [
+    "manager_cat",
+    "new_bear"
+  ],
+  "logline": "新熊机智突破主管阻拦，实现高绩效",
+  "beats": [
+    {
+      "time_range": "0-3s",
+      "action": "经理猫站在新熊面前，拦住它的去路",
+      "dialogue": "经理猫：不许去被捏！"
+    },
+    {
+      "time_range": "3-6s",
+      "action": "新熊假装往左边走，然后突然转向右边",
+      "dialogue": "新熊：嘿嘿，骗到你啦！"
+    },
+    {
+      "time_range": "6-9s",
+      "action": "经理猫急忙转身去追新熊，新熊加快速度",
+      "dialogue": "经理猫：你给我停下！"
+    },
+    {
+      "time_range": "9-12s",
+      "action": "新熊跑到主人手边，被主人捏了，经理猫无奈地看着",
+      "dialogue": "新熊：我还是被捏啦！"
+    }
+  ],
+  "punchline": "新熊用机智成功突破经理猫的阻拦，让经理猫无可奈何。",
+  "generation_notes": "后续可以考虑让经理猫想出新的办法来阻止新熊，或者让新熊的高绩效行为引发其他后果。"
+}

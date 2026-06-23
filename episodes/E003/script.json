@@ -1,0 +1,35 @@
+{
+  "script_id": "idea_003",
+  "title": "追求KPI的疯狂",
+  "duration_target_seconds": 12,
+  "workplace_theme": "职场KPI设定与过度追求",
+  "characters": [
+    "manager_cat",
+    "new_bear"
+  ],
+  "logline": "奶盖定KPI，团子疯狂求捏。",
+  "beats": [
+    {
+      "time_range": "0-3s",
+      "action": "奶盖站在高处，向团子宣布新KPI。",
+      "dialogue": "奶盖：新任务，被捏次数创新高！"
+    },
+    {
+      "time_range": "3-6s",
+      "action": "团子兴奋地跳起来，大声回应。",
+      "dialogue": "团子：我会加油的！"
+    },
+    {
+      "time_range": "6-9s",
+      "action": "团子想尽办法让主人捏自己。",
+      "dialogue": "团子：主人，看这里！"
+    },
+    {
+      "time_range": "9-12s",
+      "action": "奶盖看着疯狂的团子，心中焦虑。",
+      "dialogue": "奶盖：不能再这样了……"
+    }
+  ],
+  "punchline": "奶盖焦虑，团子却沉迷追求KPI。",
+  "generation_notes": "后续可写奶盖如何调整策略。"
+}

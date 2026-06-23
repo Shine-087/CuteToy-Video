@@ -1,0 +1,24 @@
+{
+  "script_id": "idea_001",
+  "overall_score": 88,
+  "decision": "pass",
+  "checks": {
+    "duration_ok": true,
+    "character_consistency": true,
+    "one_joke_only": true,
+    "has_punchline": true,
+    "dialogue_short_enough": true,
+    "visual_generation_risk": "low",
+    "brand_safety": true,
+    "world_rules_ok": true
+  },
+  "scores": {
+    "comedy": 85,
+    "character_fit": 90,
+    "visual_feasibility": 90,
+    "series_consistency": 90
+  },
+  "problems": [],
+  "revision_notes": [],
+  "recommended_next_action": "use_as_script"
+}

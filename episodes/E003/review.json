@@ -1,0 +1,28 @@
+{
+  "script_id": "idea_003",
+  "overall_score": 80,
+  "decision": "revise",
+  "checks": {
+    "duration_ok": true,
+    "character_consistency": true,
+    "one_joke_only": true,
+    "has_punchline": true,
+    "dialogue_short_enough": true,
+    "visual_generation_risk": "low",
+    "brand_safety": true,
+    "world_rules_ok": true
+  },
+  "scores": {
+    "comedy": 80,
+    "character_fit": 80,
+    "visual_feasibility": 80,
+    "series_consistency": 80
+  },
+  "problems": [
+    "情节较简单，缺乏更有趣的细节和互动"
+  ],
+  "revision_notes": [
+    "可以增加一些团子求捏的有趣方式，或者奶盖在焦虑下的一些小动作等细节"
+  ],
+  "recommended_next_action": "revise_script"
+}

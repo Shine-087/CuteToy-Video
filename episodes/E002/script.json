@@ -1,0 +1,35 @@
+{
+  "script_id": "idea_003",
+  "title": "高绩效的代价",
+  "duration_target_seconds": 12,
+  "workplace_theme": "职场中的虚假繁荣与过度竞争",
+  "characters": [
+    "manager_cat",
+    "new_bear"
+  ],
+  "logline": "新熊为高绩效拼命被捏，经理猫开始焦虑",
+  "beats": [
+    {
+      "time_range": "0-3s",
+      "action": "经理猫给新熊讲被捏的重要性",
+      "dialogue": "经理猫：被捏越多绩效越高"
+    },
+    {
+      "time_range": "3-6s",
+      "action": "主人捏新熊，新熊很开心",
+      "dialogue": "新熊：我喜欢工作"
+    },
+    {
+      "time_range": "6-9s",
+      "action": "经理猫表扬新熊，又提出更高目标",
+      "dialogue": "经理猫：你要成为被捏最多的"
+    },
+    {
+      "time_range": "9-12s",
+      "action": "新熊不断让主人捏，经理猫皱眉头",
+      "dialogue": "新熊：我会做到的！经理猫：（内心焦虑）别过头了"
+    }
+  ],
+  "punchline": "新熊过度追求被捏，经理猫担心局面失控",
+  "generation_notes": "可以接着写经理猫如何应对新熊的情况"
+}

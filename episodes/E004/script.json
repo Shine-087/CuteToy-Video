@@ -1,0 +1,35 @@
+{
+  "script_id": "idea_003",
+  "title": "压制与反抗的较量",
+  "duration_target_seconds": 12,
+  "workplace_theme": "职场中的权力压制与反抗",
+  "characters": [
+    "manager_cat",
+    "new_bear"
+  ],
+  "logline": "主管奶盖压制新熊团子，团子顽强反抗争取被捏机会。",
+  "beats": [
+    {
+      "time_range": "0-3s",
+      "action": "奶盖整个身子压在团子上，不让主人捏。",
+      "dialogue": "奶盖：你不能再被捏了！"
+    },
+    {
+      "time_range": "3-6s",
+      "action": "团子努力从奶盖身下挤出一点。",
+      "dialogue": "团子：主人，捏我！"
+    },
+    {
+      "time_range": "6-9s",
+      "action": "奶盖又把团子压回去，用爪子按住。",
+      "dialogue": "奶盖：别挣扎了！"
+    },
+    {
+      "time_range": "9-12s",
+      "action": "团子用力挣扎，身体不断弹动。",
+      "dialogue": "团子：我一定要被捏！"
+    }
+  ],
+  "punchline": "奶盖虽然压制住团子，但团子的反抗很激烈。",
+  "generation_notes": "后续可以让奶盖想其他办法阻止团子，团子也可以有新的反抗策略。"
+}

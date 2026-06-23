@@ -1,0 +1,109 @@
+{
+  "scripts": [
+    {
+      "script_id": "idea_001",
+      "title": "被捏就是高绩效",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的虚假繁荣与过度竞争",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "经理猫向新熊宣扬被捏就是高绩效，新熊信以为真",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "经理猫站在桌上，新熊坐在旁边。经理猫双手背后",
+          "dialogue": "经理猫：我们公司文化，被捏就是高绩效"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "主人伸手捏了下新熊",
+          "dialogue": "新熊：啊！这就是工作吗"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "经理猫点头，表情夸张",
+          "dialogue": "经理猫：对！你被捏出印子，说明绩效高"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "新熊努力挤出印子，经理猫看着新熊，露出担心的表情",
+          "dialogue": "新熊：我要更努力！经理猫：（内心慌了）你别太拼啊"
+        }
+      ],
+      "punchline": "新熊为了高绩效拼命挤出印子，经理猫担心地位不保",
+      "generation_notes": "可以继续围绕新熊的努力和经理猫的担忧展开剧情"
+    },
+    {
+      "script_id": "idea_002",
+      "title": "努力被捏的新熊",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的虚假繁荣与过度竞争",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "新熊努力追求被捏的高绩效，经理猫感到危机",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "经理猫和新熊在桌上，经理猫板着脸",
+          "dialogue": "经理猫：被捏是我们的使命"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "主人捏了新熊一下，新熊很兴奋",
+          "dialogue": "新熊：我被捏啦！"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "经理猫夸赞新熊，然后提出更高要求",
+          "dialogue": "经理猫：不错，要追求更频繁被捏"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "新熊到处找东西压自己，经理猫着急地看着",
+          "dialogue": "新熊：我要更多被捏！经理猫：别这样"
+        }
+      ],
+      "punchline": "新熊为了被捏不择手段，经理猫担心自己地位",
+      "generation_notes": "后续可发展新熊的行为带来的其他影响"
+    },
+    {
+      "script_id": "idea_003",
+      "title": "高绩效的代价",
+      "duration_target_seconds": 12,
+      "workplace_theme": "职场中的虚假繁荣与过度竞争",
+      "characters": [
+        "manager_cat",
+        "new_bear"
+      ],
+      "logline": "新熊为高绩效拼命被捏，经理猫开始焦虑",
+      "beats": [
+        {
+          "time_range": "0-3s",
+          "action": "经理猫给新熊讲被捏的重要性",
+          "dialogue": "经理猫：被捏越多绩效越高"
+        },
+        {
+          "time_range": "3-6s",
+          "action": "主人捏新熊，新熊很开心",
+          "dialogue": "新熊：我喜欢工作"
+        },
+        {
+          "time_range": "6-9s",
+          "action": "经理猫表扬新熊，又提出更高目标",
+          "dialogue": "经理猫：你要成为被捏最多的"
+        },
+        {
+          "time_range": "9-12s",
+          "action": "新熊不断让主人捏，经理猫皱眉头",
+          "dialogue": "新熊：我会做到的！经理猫：（内心焦虑）别过头了"
+        }
+      ],
+      "punchline": "新熊过度追求被捏，经理猫担心局面失控",
+      "generation_notes": "可以接着写经理猫如何应对新熊的情况"
+    }
+  ]
+}

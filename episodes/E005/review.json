@@ -1,0 +1,28 @@
+{
+  "script_id": "idea_003",
+  "overall_score": 80,
+  "decision": "revise",
+  "checks": {
+    "duration_ok": true,
+    "character_consistency": true,
+    "one_joke_only": true,
+    "has_punchline": true,
+    "dialogue_short_enough": true,
+    "visual_generation_risk": "low",
+    "brand_safety": true,
+    "world_rules_ok": true
+  },
+  "scores": {
+    "comedy": 80,
+    "character_fit": 80,
+    "visual_feasibility": 80,
+    "series_consistency": 80
+  },
+  "problems": [
+    "剧情简单，缺乏深度和反转"
+  ],
+  "revision_notes": [
+    "增加剧情的复杂性和反转，例如经理猫设下陷阱，新熊巧妙化解并反将一军"
+  ],
+  "recommended_next_action": "revise_script"
+}

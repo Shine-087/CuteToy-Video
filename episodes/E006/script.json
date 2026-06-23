@@ -1,0 +1,35 @@
+{
+  "script_id": "idea_001",
+  "title": "躲得了初一躲不了捏",
+  "duration_target_seconds": 12,
+  "workplace_theme": "职场恶意打压最终自食其果",
+  "characters": [
+    "manager_cat",
+    "new_bear"
+  ],
+  "logline": "主管把新人压身下躲捏，反而自己先被抓捏爆",
+  "beats": [
+    {
+      "time_range": "0-3s",
+      "action": "奶盖把团子按在收纳盒角落",
+      "dialogue": "看你这次还怎么抢绩效"
+    },
+    {
+      "time_range": "3-6s",
+      "action": "主人的手伸进收纳盒摸索",
+      "dialogue": "（奶盖小声）千万别摸到我"
+    },
+    {
+      "time_range": "6-9s",
+      "action": "手抓住奶盖拎出来狂捏",
+      "dialogue": "（奶盖惨叫）啊怎么是我！"
+    },
+    {
+      "time_range": "9-12s",
+      "action": "团子爬出来蹦到主人手边",
+      "dialogue": "绩效我来啦！"
+    }
+  ],
+  "punchline": "奶盖把团子堵在死角，反而自己露在外面被捏了十分钟",
+  "generation_notes": "奶盖被捏时要做出硅胶瘫软变形的质感，团子蹦跳要Q弹"
+}

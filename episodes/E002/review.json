@@ -1,0 +1,28 @@
+{
+  "script_id": "idea_003",
+  "overall_score": 80,
+  "decision": "revise",
+  "checks": {
+    "duration_ok": true,
+    "character_consistency": true,
+    "one_joke_only": true,
+    "has_punchline": true,
+    "dialogue_short_enough": true,
+    "visual_generation_risk": "low",
+    "brand_safety": true,
+    "world_rules_ok": true
+  },
+  "scores": {
+    "comedy": 80,
+    "character_fit": 80,
+    "visual_feasibility": 80,
+    "series_consistency": 80
+  },
+  "problems": [
+    "结尾反转不够强烈，经理猫的焦虑表现不明显"
+  ],
+  "revision_notes": [
+    "加强结尾反转，突出经理猫的焦虑情绪和可能采取的行动"
+  ],
+  "recommended_next_action": "revise_script"
+}

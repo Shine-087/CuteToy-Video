@@ -1,0 +1,27 @@
+{
+  "format": "vertical 9:16 short video",
+  "style_keywords": [
+    "kawaii toy photography",
+    "soft pastel lighting",
+    "clean desk",
+    "miniature office props",
+    "soft silicone squishy texture",
+    "cute absurd workplace comedy"
+  ],
+  "camera_rules": [
+    "优先固定镜头、近景、中近景。",
+    "少用复杂运镜。",
+    "每个镜头只做一个简单动作。",
+    "角色动作优先使用靠近、轻微弹跳、压扁、弹回、沉默定格。"
+  ],
+  "negative_prompt_global": [
+    "horror",
+    "violent injury",
+    "realistic animal",
+    "human face on toy",
+    "extra limbs",
+    "messy background",
+    "brand logo",
+    "text artifacts"
+  ]
+}
